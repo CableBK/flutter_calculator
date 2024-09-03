@@ -23,7 +23,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                 '0',
                 style: TextStyle(
                   fontSize: 48,
-                  fontWeight: FontWeight.bold,
+                  //fontWeight: FontWeight.bold,
                 ),
                 textAlign: TextAlign.end,
               ),
